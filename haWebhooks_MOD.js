@@ -7,7 +7,7 @@ module.exports = {
     name: "Home Assistant Webhook",
   },
   info: {
-    source: "https://github.com/LucxN",
+    source: "https://github.com/LucxN/HA-Webhooks-BMD",
     creator: "Made with <3 by @lucxanul",
   },
   UI: [
